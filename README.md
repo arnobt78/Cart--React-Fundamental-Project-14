@@ -1,8 +1,11 @@
+
+<img width="837" alt="Screenshot 2025-02-09 at 16 41 04" src="https://github.com/user-attachments/assets/12cd0f22-c57d-444a-9eff-6300a20b8fd8" />
+
 ## Cart - React Fundamental Project 14
 
 This project is a simple shopping cart application built with React, using the useReducer hook for state management and context API for global state.
 
-**Online Live:**
+**Online Live:** https://cart-arnob.netlify.app/
 
 ## Project Details and Steps
 
